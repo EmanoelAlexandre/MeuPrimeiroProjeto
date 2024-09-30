@@ -6,3 +6,5 @@ O objetivo deste projeto é aprender a utilizar o GitHub de forma eficiente.
 -Git
 -GitHub
 -Markdown
+##Como contribuir
+contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
